@@ -6,12 +6,12 @@ A sleek and responsive weather web application that fetches real-time weather da
 
 ## ✨ Features
 
-- 🔍 **Search by City** – Users can search weather details for any city in the world.
-- 🌡️ **Current Weather** – Displays real-time temperature, description, humidity, and wind speed.
-- 📆 **5-Day Forecast** – Shows a beautiful daily weather forecast using icons and date formatting.
-- ⏳ **Loading State** – Indicates when data is being fetched.
-- ⚠️ **Error Handling** – Gracefully handles errors like invalid city names or failed API responses.
-- 💎 **Modern UI** – A glassmorphism-styled card layout with gradients and clean typography.
+- **Search by City** – Users can search weather details for any city in the world.
+- **Current Weather** – Displays real-time temperature, description, humidity, and wind speed.
+- **5-Day Forecast** – Shows a beautiful daily weather forecast using icons and date formatting.
+- **Loading State** – Indicates when data is being fetched.
+- **Error Handling** – Gracefully handles errors like invalid city names or failed API responses.
+- **Modern UI** – A glassmorphism-styled card layout with gradients and clean typography.
 
 ---
 
